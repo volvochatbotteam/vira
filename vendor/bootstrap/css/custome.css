@@ -76,11 +76,19 @@
     width: 60px;
     height: 60px; 
 } 
-
+.videorow {
+  align-content: center;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
 .videoclass {
-  align-content: center; 
+  align-content: center;
   width:100%;
-  max-width:1100px;
+  max-width:1150px;
   height:auto;
 }
 
