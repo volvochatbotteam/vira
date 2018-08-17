@@ -1,0 +1,72 @@
+  /*===============================================
+* Icon Sizes
+================================================*/
+.material-icons.dp24, .icon-sm {
+    font-size: 24px;
+    width: 24px;
+    height: 24px;
+    vertical-align: middle; }
+  
+  .material-icons.dp36, .icon-md {
+    font-size: 36px;
+    width: 36px;
+    height: 36px;
+    vertical-align: middle; }
+  
+  .material-icons.dp48, .icon-lg {
+    font-size: 48px;
+    width: 48px;
+    height: 48px;
+    vertical-align: middle; }
+  
+  .icon-box {
+    color: #fff;
+    background-color: #512DA8;
+    vertical-align: middle;
+    border-radius: 50px !important;
+    padding: 12px;
+    display: inline-block;
+    width: 60px;
+    height: 60px; }
+  
+  .snow-icon-box{
+    color:#fff;
+    background-color: #ec0d0d;
+    vertical-align: middle;
+    border-radius: 50px !important;
+    padding: 12px;
+    display: inline-block;
+    width: 60px;
+    height: 60px; }
+  
+  .nlp-icon-box{
+    color:#fff;
+    background-color: #06943e;
+    vertical-align: middle;
+    border-radius: 50px !important;
+    padding: 12px;
+    display: inline-block;
+    width: 60px;
+    height: 60px; }
+    
+  .time-icon-box{
+    color:#fff;
+    background-color: #c710f3;
+    vertical-align: middle;
+    border-radius: 50px !important;
+    padding: 12px;
+    display: inline-block;
+    width: 60px;
+    height: 60px; }
+  
+  .lang-icon-box{
+    color:#fff;
+    background-color: #33ceff;
+    vertical-align: middle;
+    border-radius: 50px !important;
+    padding: 12px;
+    display: inline-block;
+    width: 60px;
+    height: 60px; } 
+
+  /*# sourceMappingURL=bootstrap.css.map */
